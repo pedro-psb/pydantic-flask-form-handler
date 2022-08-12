@@ -30,4 +30,5 @@ So, if the file is too big, the rest of the form won't be validated.
 
 * Write tests
 * Feature: allow server-side data injection on the `request.form` data.
+* Refactor types and fix linting errors
 * Make it an installable package/plugin/blueprint
